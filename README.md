@@ -1,6 +1,8 @@
-# awesomepos
+# PosSystem
 
-> A Vue.js project
+> Use this demo to learn Vue.
+> 这个演示用于学习Vue.
+> 收银系统包括： 点餐、挂单两个模块
 
 ## Build Setup
 
